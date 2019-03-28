@@ -24,6 +24,7 @@ require (
 	github.com/microsoft/go-winio v0.4.5
 	github.com/mitchellh/go-wordwrap v0.0.0-20150314170334-ad45545899c7 // indirect
 	github.com/nsf/termbox-go v0.0.0-20171104162316-aa4a75b1c20a // indirect
+	github.com/omeid/go-resources v0.0.0-20190324090249-46f4269d8abd // indirect
 	github.com/onsi/ginkgo v1.8.0 // indirect
 	github.com/onsi/gomega v1.5.0 // indirect
 	github.com/peterh/liner v0.0.0-20171122030339-3681c2a91233
