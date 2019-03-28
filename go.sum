@@ -4,6 +4,8 @@ github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/denisbrodbeck/machineid v0.8.0 h1:RLNt/ZG4IHF3Q0JS5oDITRmiEYgddmEkTO5dOa06d0U=
 github.com/denisbrodbeck/machineid v0.8.0/go.mod h1:dJUwb7PTidGDeYyUBmXZ2GphQBbjJCrnectwCyxcUSI=
+github.com/ethereumclassic/go-ethereum v5.5.3+incompatible h1:TDUxyAsQLJ7NneUmLMaQN8yt1fPOBJKf00rWoTmLEA4=
+github.com/ethereumclassic/go-ethereum v5.5.3+incompatible/go.mod h1:1rTs0jgc2ENzhs7DiWy7VO10FnKJo8RXerPnAZ8Xaa0=
 github.com/ethereumproject/benchmark v0.0.0-20180113190147-8eff34efba25 h1:ZEfDopMiJCB3BiA90t9tMTx4WQtC0PpB4NheR0aqDzU=
 github.com/ethereumproject/benchmark v0.0.0-20180113190147-8eff34efba25/go.mod h1:YiSza/iCwF4jZK5euftNHCef3jwbxZAw5pogH05EuDg=
 github.com/fatih/color v1.7.0 h1:DkWD4oS2D8LGGgTQ6IvwJJXSL5Vp2ffcQg58nFV38Ys=
@@ -51,6 +53,8 @@ github.com/mitchellh/go-wordwrap v0.0.0-20150314170334-ad45545899c7 h1:DpOJ2HYzC
 github.com/mitchellh/go-wordwrap v0.0.0-20150314170334-ad45545899c7/go.mod h1:ZXFpozHsX6DPmq2I0TCekCxypsnAUbP2oI0UX1GXzOo=
 github.com/nsf/termbox-go v0.0.0-20171104162316-aa4a75b1c20a h1:USZ2AkITyiH9LzgIrssF9S5mRQhbRvvTkAFlJHiWmfg=
 github.com/nsf/termbox-go v0.0.0-20171104162316-aa4a75b1c20a/go.mod h1:IuKpRQcYE1Tfu+oAQqaLisqDeXgjyyltCfsaoYN18NQ=
+github.com/omeid/go-resources v0.0.0-20190324090249-46f4269d8abd h1:VxcHM9xpZ4BHxQPYWAavsxPciBZITxmnGNyIO7hsUfk=
+github.com/omeid/go-resources v0.0.0-20190324090249-46f4269d8abd/go.mod h1:SIESmZeFlCKsQZcd2NEiX8spNNmCWB1V/RbM/eBKDfo=
 github.com/onsi/ginkgo v1.6.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
 github.com/onsi/ginkgo v1.8.0 h1:VkHVNpR4iVnU8XQR6DBm8BqYjN7CRzw+xKUbVVbbW9w=
 github.com/onsi/ginkgo v1.8.0/go.mod h1:lLunBs/Ym6LB5Z9jYTR76FiuTmxDTDusOGeTQH+WWjE=
@@ -77,8 +81,8 @@ github.com/syndtr/goleveldb v0.0.0-20171214120811-34011bf325bc h1:yhWARKbbDg8UBR
 github.com/syndtr/goleveldb v0.0.0-20171214120811-34011bf325bc/go.mod h1:Z4AUp2Km+PwemOoO/VB5AOx9XSsIItzFjoJlOSiYmn0=
 github.com/webchain-network/cryptonight v0.0.0-20180619103101-733adb91a7b7 h1:vxLlrtjEM02oIYgM1YIXoc/Wm+dZF5XwMjpwSOl8Nbo=
 github.com/webchain-network/cryptonight v0.0.0-20180619103101-733adb91a7b7/go.mod h1:TSKPeZDY20hIUJumKqmGxPSY5eul1TfWBi3I6DwzTAc=
-github.com/webchain-network/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4 h1:B8tLoSOPOcTA51KGQICGiI7rzg/U0/MLWY6q/IyvSFo=
-github.com/webchain-network/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4/go.mod h1:mkO/LBJN7u/8fzxPshB1V7KSZw4QPb8C2Uv6aJslYLg=
+github.com/webchain-network/sputnikvm-ffi v0.0.0-20181217062622-94e3ca68a379 h1:O/SmlH3Tm3FeQpoUkIogeoEraUcaP4uVLKi8Vjm01AY=
+github.com/webchain-network/sputnikvm-ffi v0.0.0-20181217062622-94e3ca68a379/go.mod h1:mkO/LBJN7u/8fzxPshB1V7KSZw4QPb8C2Uv6aJslYLg=
 golang.org/x/crypto v0.0.0-20171219041129-d585fd2cc919 h1:qFAJ1NcSrOkLdaMbN6OmWeqHdp0aFZy7uWOdL/5ddnU=
 golang.org/x/crypto v0.0.0-20171219041129-d585fd2cc919/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
 golang.org/x/net v0.0.0-20180906233101-161cd47e91fd h1:nTDtHvHSdCn1m6ITfMRqtOd/9+7a3s8RBNOZ3eYZzJA=

@@ -4,6 +4,7 @@ require (
 	github.com/boltdb/bolt v1.3.1
 	github.com/davecgh/go-spew v1.1.0
 	github.com/denisbrodbeck/machineid v0.8.0
+	github.com/ethereumclassic/go-ethereum v5.5.3+incompatible // indirect
 	github.com/ethereumproject/benchmark v0.0.0-20180113190147-8eff34efba25
 	github.com/fatih/color v1.7.0
 	github.com/gizak/termui v2.2.0+incompatible
@@ -23,6 +24,7 @@ require (
 	github.com/microsoft/go-winio v0.4.5
 	github.com/mitchellh/go-wordwrap v0.0.0-20150314170334-ad45545899c7 // indirect
 	github.com/nsf/termbox-go v0.0.0-20171104162316-aa4a75b1c20a // indirect
+	github.com/omeid/go-resources v0.0.0-20190324090249-46f4269d8abd // indirect
 	github.com/onsi/ginkgo v1.8.0 // indirect
 	github.com/onsi/gomega v1.5.0 // indirect
 	github.com/peterh/liner v0.0.0-20171122030339-3681c2a91233
@@ -34,7 +36,7 @@ require (
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/syndtr/goleveldb v0.0.0-20171214120811-34011bf325bc
 	github.com/webchain-network/cryptonight v0.0.0-20180619103101-733adb91a7b7
-	github.com/webchain-network/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4
+	github.com/webchain-network/sputnikvm-ffi v0.0.0-20181217062622-94e3ca68a379
 	golang.org/x/crypto v0.0.0-20171219041129-d585fd2cc919
 	golang.org/x/net v0.0.0-20180906233101-161cd47e91fd
 	golang.org/x/tools v0.0.0-20171226195143-b451b9aaee4d
