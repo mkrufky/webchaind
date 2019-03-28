@@ -172,7 +172,7 @@
   branch = "master"
   name = "github.com/webchain-network/sputnikvm-ffi"
   packages = ["go/sputnikvm"]
-  revision = "47e0403cc9b4d96fef3a3b66c0c428c999ae92d5"
+  revision = "94e3ca68a3793abd0a328edad9850bb0cc615971"
 
 [[projects]]
   branch = "master"
