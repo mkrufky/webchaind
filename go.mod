@@ -10,6 +10,7 @@ require (
 	github.com/ethereumproject/benchmark v0.0.0-20180113190147-8eff34efba25
 	github.com/fatih/color v1.7.0
 	github.com/gizak/termui v2.3.0+incompatible
+	github.com/golang/snappy v0.0.1 // indirect
 	github.com/hashicorp/golang-lru v0.5.1
 	github.com/huin/goupnp v1.0.0
 	github.com/jackpal/go-nat-pmp v1.0.1
@@ -17,6 +18,8 @@ require (
 	github.com/mailru/easyjson v0.0.0-20190403194419-1ea4449da983
 	github.com/maruel/panicparse v1.2.0 // indirect
 	github.com/mattn/go-colorable v0.1.2 // indirect
+	github.com/mkrufky/cryptonight v0.0.0-20200523235742-5a895e3780cf
+	github.com/mkrufky/sputnikvm-ffi v0.0.0-20200523235116-98d5f2896018
 	github.com/nsf/termbox-go v0.0.0-20190624072549-eeb6cd0a1762 // indirect
 	github.com/omeid/go-resources v0.0.0-20200113210624-eb442c910d63
 	github.com/onsi/ginkgo v1.12.2 // indirect
@@ -28,8 +31,6 @@ require (
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.3.0
 	github.com/syndtr/goleveldb v0.0.0-20171214120811-34011bf325bc
-	github.com/mkrufky/cryptonight v0.0.0-20200523201908-55517619d7d9
-	github.com/mkrufky/sputnikvm-ffi v0.0.0-20200523235116-98d5f2896018
 	golang.org/x/crypto v0.0.0-20190418165655-df01cb2cc480
 	golang.org/x/net v0.0.0-20200520004742-59133d7f0dd7
 	golang.org/x/sys v0.0.0-20200519105757-fe76b779f299
