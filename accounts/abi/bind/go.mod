@@ -1,4 +1,4 @@
-module github.com/eth-classic/go-ethereum/accounts/abi/bind
+module github.com/webchain-network/webchaind/accounts/abi/bind
 
 require (
 	github.com/eth-classic/go-ethereum v0.0.0-20190521151733-61b178b4deeb // indirect
