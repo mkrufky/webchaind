@@ -32,7 +32,7 @@ fi
 OS=`uname -s`
 
 geth_path="github.com/mkrufky/webchaind"
-sputnik_path="github.com/webchain-network/sputnikvm-ffi"
+sputnik_path="github.com/mkrufky/sputnikvm-ffi"
 sputnik_dir="$GOPATH/src/$geth_path/vendor/$sputnik_path"
 
 geth_bindir="$GOPATH/src/$geth_path/bin"

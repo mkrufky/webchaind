@@ -12,7 +12,7 @@ import (
 	"github.com/mkrufky/webchaind/crypto"
 	"github.com/mkrufky/webchaind/logger"
 	"github.com/mkrufky/webchaind/logger/glog"
-	"github.com/webchain-network/sputnikvm-ffi/go/sputnikvm"
+	"github.com/mkrufky/sputnikvm-ffi/go/sputnikvm"
 )
 
 const SputnikVMExists = true

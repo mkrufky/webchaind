@@ -29,7 +29,7 @@ require (
 	github.com/stretchr/testify v1.3.0
 	github.com/syndtr/goleveldb v0.0.0-20171214120811-34011bf325bc
 	github.com/mkrufky/cryptonight v0.0.0-20200523201908-55517619d7d9
-	github.com/webchain-network/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4
+	github.com/mkrufky/sputnikvm-ffi v0.0.0-20200523235116-98d5f2896018
 	golang.org/x/crypto v0.0.0-20190418165655-df01cb2cc480
 	golang.org/x/net v0.0.0-20200520004742-59133d7f0dd7
 	golang.org/x/sys v0.0.0-20200519105757-fe76b779f299

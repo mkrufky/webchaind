@@ -71,8 +71,8 @@ github.com/mitchellh/go-wordwrap v1.0.0/go.mod h1:ZXFpozHsX6DPmq2I0TCekCxypsnAUb
 github.com/mkrufky/cryptonight v0.0.0-20190710091206-c830472bb2a3 h1:gfzHbAhGnei84doBhDRxdfOPFTAezJyOKM5DbBsR0bU=
 github.com/mkrufky/cryptonight v0.0.0-20190710091206-c830472bb2a3/go.mod h1:TSKPeZDY20hIUJumKqmGxPSY5eul1TfWBi3I6DwzTAc=
 github.com/mkrufky/cryptonight v0.0.0-20200523201908-55517619d7d9/go.mod h1:G4kA/xV0gC3lj4MP1+0Lvu8PDivBvZWLbv3NJaQ8Wf0=
-github.com/webchain-network/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4 h1:B8tLoSOPOcTA51KGQICGiI7rzg/U0/MLWY6q/IyvSFo=
-github.com/webchain-network/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4/go.mod h1:mkO/LBJN7u/8fzxPshB1V7KSZw4QPb8C2Uv6aJslYLg=
+github.com/mkrufky/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4 h1:B8tLoSOPOcTA51KGQICGiI7rzg/U0/MLWY6q/IyvSFo=
+github.com/mkrufky/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4/go.mod h1:mkO/LBJN7u/8fzxPshB1V7KSZw4QPb8C2Uv6aJslYLg=
 github.com/nsf/termbox-go v0.0.0-20190325093121-288510b9734e h1:Vbib8wJAaMEF9jusI/kMSYMr/LtRzM7+F9MJgt/nH8k=
 github.com/nsf/termbox-go v0.0.0-20190325093121-288510b9734e/go.mod h1:IuKpRQcYE1Tfu+oAQqaLisqDeXgjyyltCfsaoYN18NQ=
 github.com/nsf/termbox-go v0.0.0-20190624072549-eeb6cd0a1762 h1:44Lv0bNi88GweB54TCjB/lEJgp+2Ze5WFpwNu0nh0ag=
@@ -111,7 +111,7 @@ github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/syndtr/goleveldb v0.0.0-20171214120811-34011bf325bc h1:yhWARKbbDg8UBRi/M5bVcVOBg2viFKcNJEAtHMYbRBo=
 github.com/syndtr/goleveldb v0.0.0-20171214120811-34011bf325bc/go.mod h1:Z4AUp2Km+PwemOoO/VB5AOx9XSsIItzFjoJlOSiYmn0=
-github.com/webchain-network/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4/go.mod h1:mkO/LBJN7u/8fzxPshB1V7KSZw4QPb8C2Uv6aJslYLg=
+github.com/mkrufky/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4/go.mod h1:mkO/LBJN7u/8fzxPshB1V7KSZw4QPb8C2Uv6aJslYLg=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20190418165655-df01cb2cc480 h1:O5YqonU5IWby+w98jVUG9h7zlCWCcH4RHyPVReBmhzk=
 golang.org/x/crypto v0.0.0-20190418165655-df01cb2cc480/go.mod h1:WFFai1msRO1wXaEeE5yQxYXgSfI8pQAWXbQop6sCtWE=
