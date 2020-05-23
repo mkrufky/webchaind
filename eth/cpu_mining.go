@@ -22,8 +22,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
 )
 
 const disabledInfo = "Set GO_OPENCL and re-build to enable."

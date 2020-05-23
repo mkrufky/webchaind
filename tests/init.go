@@ -26,7 +26,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/webchain-network/webchaind/core"
+	"github.com/mkrufky/webchaind/core"
 )
 
 var (

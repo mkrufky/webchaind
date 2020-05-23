@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 )
 
 var mlogExample1T = &MLogT{

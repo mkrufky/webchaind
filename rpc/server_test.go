@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/logger/glog"
 )
 
 type Service struct{}

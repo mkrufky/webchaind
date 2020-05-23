@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/vm"
-	"github.com/webchain-network/webchaind/crypto"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/crypto"
 )
 
 const bloomLength = 256

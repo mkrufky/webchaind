@@ -22,8 +22,8 @@ package node
 import (
 	"reflect"
 
-	"github.com/webchain-network/webchaind/p2p"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/p2p"
+	"github.com/mkrufky/webchaind/rpc"
 )
 
 // NoopService is a trivial implementation of the Service interface.

@@ -20,11 +20,11 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/crypto/bn256"
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/crypto/bn256"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
 )
 
 var (

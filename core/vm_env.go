@@ -19,10 +19,10 @@ package core
 import (
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/state"
-	"github.com/webchain-network/webchaind/core/types"
-	"github.com/webchain-network/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/state"
+	"github.com/mkrufky/webchaind/core/types"
+	"github.com/mkrufky/webchaind/core/vm"
 )
 
 // GetHashFn returns a function for which the VM env can query block hashes through

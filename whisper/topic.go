@@ -19,7 +19,7 @@
 
 package whisper
 
-import "github.com/webchain-network/webchaind/crypto"
+import "github.com/mkrufky/webchaind/crypto"
 
 // Topic represents a cryptographically secure, probabilistic partial
 // classifications of a message, determined as the first (left) 4 bytes of the

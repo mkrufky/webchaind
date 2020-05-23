@@ -28,9 +28,9 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/vm"
-	"github.com/webchain-network/webchaind/ethdb"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/ethdb"
 	"gopkg.in/check.v1"
 )
 

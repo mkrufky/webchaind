@@ -1,7 +1,7 @@
 package accounts
 
 import (
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 	"path/filepath"
 )
 

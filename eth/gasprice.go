@@ -21,10 +21,10 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/webchain-network/webchaind/core"
-	"github.com/webchain-network/webchaind/core/types"
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/core"
+	"github.com/mkrufky/webchaind/core/types"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
 )
 
 const (

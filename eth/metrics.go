@@ -17,8 +17,8 @@
 package eth
 
 import (
-	"github.com/webchain-network/webchaind/metrics"
-	"github.com/webchain-network/webchaind/p2p"
+	"github.com/mkrufky/webchaind/metrics"
+	"github.com/mkrufky/webchaind/p2p"
 )
 
 // meteredMsgReadWriter is a wrapper around a p2p.MsgReadWriter, capable of

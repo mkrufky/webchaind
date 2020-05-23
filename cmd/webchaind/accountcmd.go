@@ -23,11 +23,11 @@ import (
 	"log"
 	"os"
 
-	"github.com/webchain-network/webchaind/accounts"
-	"github.com/webchain-network/webchaind/console"
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/accounts"
+	"github.com/mkrufky/webchaind/console"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
 	"gopkg.in/urfave/cli.v1"
 )
 

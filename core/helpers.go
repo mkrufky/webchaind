@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/webchain-network/webchaind/core/assets"
+	"github.com/mkrufky/webchaind/core/assets"
 )
 
 func assetsOpen(path string) (io.ReadCloser, error) {

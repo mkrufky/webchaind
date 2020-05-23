@@ -18,8 +18,8 @@ package trie
 
 import (
 	"fmt"
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/logger/glog"
 )
 
 var secureKeyPrefix = []byte("secure-key-")

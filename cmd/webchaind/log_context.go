@@ -12,9 +12,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/webchaind/p2p/discover"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/p2p/discover"
 	"net"
 )
 

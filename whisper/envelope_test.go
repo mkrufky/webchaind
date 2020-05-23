@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/crypto/ecies"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/crypto/ecies"
 )
 
 func TestEnvelopeOpen(t *testing.T) {

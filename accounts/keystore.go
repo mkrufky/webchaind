@@ -33,10 +33,10 @@ import (
 	"golang.org/x/crypto/pbkdf2"
 	"golang.org/x/crypto/scrypt"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/crypto/randentropy"
-	"github.com/webchain-network/webchaind/crypto/secp256k1"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/crypto/randentropy"
+	"github.com/mkrufky/webchaind/crypto/secp256k1"
 )
 
 type key struct {

@@ -2,8 +2,8 @@ package eth
 
 import (
 	"bytes"
-	"github.com/webchain-network/webchaind/core/types"
-	"github.com/webchain-network/webchaind/logger"
+	"github.com/mkrufky/webchaind/core/types"
+	"github.com/mkrufky/webchaind/logger"
 	"strings"
 	"testing"
 )

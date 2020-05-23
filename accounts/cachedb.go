@@ -32,9 +32,9 @@ import (
 	"sync"
 
 	"github.com/boltdb/bolt"
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
 	"github.com/mailru/easyjson"
 )
 

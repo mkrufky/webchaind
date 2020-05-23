@@ -3,9 +3,9 @@ package main
 import (
 	"math"
 
-	"github.com/webchain-network/webchaind/core"
-	"github.com/webchain-network/webchaind/ethdb"
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/core"
+	"github.com/mkrufky/webchaind/ethdb"
+	"github.com/mkrufky/webchaind/logger/glog"
 	"gopkg.in/urfave/cli.v1"
 )
 

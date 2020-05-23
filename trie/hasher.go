@@ -21,9 +21,9 @@ import (
 	"hash"
 	"sync"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto/sha3"
-	"github.com/webchain-network/webchaind/rlp"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto/sha3"
+	"github.com/mkrufky/webchaind/rlp"
 )
 
 // calculator is a utility used by the hasher to calculate the hash value of the tree node.

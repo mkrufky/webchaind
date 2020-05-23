@@ -26,10 +26,10 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/crypto/ecies"
-	"github.com/webchain-network/webchaind/rlp"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/crypto/ecies"
+	"github.com/mkrufky/webchaind/rlp"
 )
 
 // Envelope represents a clear-text data packet to transmit through the Whisper

@@ -25,9 +25,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/crypto/sha3"
-	"github.com/webchain-network/webchaind/p2p/discover"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/crypto/sha3"
+	"github.com/mkrufky/webchaind/p2p/discover"
 )
 
 func init() {

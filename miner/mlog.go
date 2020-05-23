@@ -1,6 +1,6 @@
 package miner
 
-import "github.com/webchain-network/webchaind/logger"
+import "github.com/mkrufky/webchaind/logger"
 
 var mlogMiner = logger.MLogRegisterAvailable("miner", mlogMinerLines)
 

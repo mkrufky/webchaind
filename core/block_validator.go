@@ -22,12 +22,12 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/state"
-	"github.com/webchain-network/webchaind/core/types"
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/webchaind/params"
-	"github.com/webchain-network/webchaind/pow"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/state"
+	"github.com/mkrufky/webchaind/core/types"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/params"
+	"github.com/mkrufky/webchaind/pow"
 	"gopkg.in/fatih/set.v0"
 )
 

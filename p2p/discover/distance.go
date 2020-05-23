@@ -19,7 +19,7 @@ package discover
 import (
 	"sort"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 )
 
 // node distance computation.

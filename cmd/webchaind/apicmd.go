@@ -28,8 +28,8 @@ import (
 
 	"os"
 
-	"github.com/webchain-network/webchaind/node"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/node"
+	"github.com/mkrufky/webchaind/rpc"
 )
 
 var (

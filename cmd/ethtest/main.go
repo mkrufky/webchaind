@@ -26,8 +26,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/webchaind/tests"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/tests"
 	"gopkg.in/urfave/cli.v1"
 )
 

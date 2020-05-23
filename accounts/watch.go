@@ -21,8 +21,8 @@ package accounts
 import (
 	"time"
 
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
 	"github.com/rjeczalik/notify"
 )
 

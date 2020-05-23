@@ -1,6 +1,6 @@
 package fetcher
 
-import "github.com/webchain-network/webchaind/core/types"
+import "github.com/mkrufky/webchaind/core/types"
 
 type FetcherInsertBlockEvent struct {
 	Peer  string

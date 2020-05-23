@@ -22,7 +22,7 @@
 package discover
 
 import (
-	"github.com/webchain-network/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger"
 )
 
 var mlogDiscover = logger.MLogRegisterAvailable("discover", mLogLines)

@@ -20,10 +20,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/webchain-network/webchaind/core"
-	"github.com/webchain-network/webchaind/core/types"
-	"github.com/webchain-network/webchaind/core/vm"
-	"github.com/webchain-network/webchaind/event"
+	"github.com/mkrufky/webchaind/core"
+	"github.com/mkrufky/webchaind/core/types"
+	"github.com/mkrufky/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/event"
 )
 
 func TestCallbacks(t *testing.T) {

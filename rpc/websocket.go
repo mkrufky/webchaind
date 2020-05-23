@@ -23,8 +23,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
 	"golang.org/x/net/websocket"
 	"gopkg.in/fatih/set.v0"
 )

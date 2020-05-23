@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
 )
 
 var ErrInvalidChainId = errors.New("invalid chain id for signer")

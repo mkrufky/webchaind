@@ -21,11 +21,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/webchain-network/webchaind/accounts/abi"
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/state"
-	"github.com/webchain-network/webchaind/core/vm"
-	"github.com/webchain-network/webchaind/ethdb"
+	"github.com/mkrufky/webchaind/accounts/abi"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/state"
+	"github.com/mkrufky/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/ethdb"
 )
 
 func TestDefaults(t *testing.T) {

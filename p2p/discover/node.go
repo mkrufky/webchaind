@@ -31,9 +31,9 @@ import (
 
 	"time"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/crypto/secp256k1"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/crypto/secp256k1"
 )
 
 const nodeIDBits = 512

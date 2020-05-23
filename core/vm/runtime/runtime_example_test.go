@@ -19,8 +19,8 @@ package runtime_test
 import (
 	"fmt"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/vm/runtime"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/vm/runtime"
 )
 
 func ExampleExecute() {

@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 )
 
 // Disassemble disassembles the byte code and returns the string

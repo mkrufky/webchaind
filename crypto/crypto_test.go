@@ -27,9 +27,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/common/hexutil"
-	"github.com/webchain-network/webchaind/crypto/secp256k1"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/common/hexutil"
+	"github.com/mkrufky/webchaind/crypto/secp256k1"
 )
 
 var testAddrHex = "970e8128ab834e8eac17ab8e3812f010678cf791"

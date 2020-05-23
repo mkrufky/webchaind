@@ -23,9 +23,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/webchain-network/webchaind/core"
-	"github.com/webchain-network/webchaind/core/vm"
-	"github.com/webchain-network/webchaind/event"
+	"github.com/mkrufky/webchaind/core"
+	"github.com/mkrufky/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/event"
 )
 
 // FilterType determines the type of filter and is used to put the filter in to

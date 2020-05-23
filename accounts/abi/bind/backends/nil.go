@@ -19,9 +19,9 @@ package backends
 import (
 	"math/big"
 
-	"github.com/webchain-network/webchaind/accounts/abi/bind"
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/types"
+	"github.com/mkrufky/webchaind/accounts/abi/bind"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/types"
 )
 
 // This nil assignment ensures compile time that nilBackend implements bind.ContractBackend.

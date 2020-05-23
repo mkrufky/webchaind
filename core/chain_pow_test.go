@@ -22,10 +22,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/types"
-	"github.com/webchain-network/webchaind/ethdb"
-	"github.com/webchain-network/webchaind/pow"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/types"
+	"github.com/mkrufky/webchaind/ethdb"
+	"github.com/mkrufky/webchaind/pow"
 )
 
 // failPow is a non-validating proof of work implementation, that returns true

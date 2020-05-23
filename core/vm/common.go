@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 )
 
 // Type is the VM type accepted by **NewVm**

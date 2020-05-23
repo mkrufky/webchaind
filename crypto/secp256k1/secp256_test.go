@@ -21,8 +21,8 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/webchain-network/webchaind/common/hexutil"
-	"github.com/webchain-network/webchaind/crypto/randentropy"
+	"github.com/mkrufky/webchaind/common/hexutil"
+	"github.com/mkrufky/webchaind/crypto/randentropy"
 )
 
 const TestCount = 1000

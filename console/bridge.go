@@ -22,9 +22,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/rpc"
 	"github.com/robertkrimen/otto"
 )
 

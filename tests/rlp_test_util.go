@@ -26,7 +26,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/webchain-network/webchaind/rlp"
+	"github.com/mkrufky/webchaind/rlp"
 )
 
 // RLPTest is the JSON structure of a single RLP test.

@@ -22,7 +22,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/webchain-network/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/logger/glog"
 )
 
 // LogSystem is implemented by log output devices.

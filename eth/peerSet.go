@@ -1,8 +1,8 @@
 package eth
 
 import (
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/p2p"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/p2p"
 	"math/big"
 	"sync"
 )

@@ -121,7 +121,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 	"github.com/fatih/color"
 )
 
@@ -227,8 +227,8 @@ var severityName = []string{
 // these path prefixes are trimmed for display, but not when
 // matching vmodule filters.
 var trimPrefixes = []string{
-	"/github.com/webchain-network/webchaind",
-	"/github.com/webchain-network/cryptonight",
+	"/github.com/mkrufky/webchaind",
+	"/github.com/mkrufky/cryptonight",
 }
 
 func trimToImportPath(file string) string {

@@ -28,9 +28,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/webchain-network/webchaind/internal/jsre"
-	"github.com/webchain-network/webchaind/internal/web3ext"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/internal/jsre"
+	"github.com/mkrufky/webchaind/internal/web3ext"
+	"github.com/mkrufky/webchaind/rpc"
 	"github.com/fatih/color"
 	"github.com/peterh/liner"
 	"github.com/robertkrimen/otto"

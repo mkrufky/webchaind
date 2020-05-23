@@ -1,6 +1,6 @@
 package state
 
-import "github.com/webchain-network/webchaind/logger"
+import "github.com/mkrufky/webchaind/logger"
 
 var mlogState = logger.MLogRegisterAvailable("state", mlogStateLines)
 

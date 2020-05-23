@@ -25,10 +25,10 @@ import (
 	"log"
 	"os"
 
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/webchaind/p2p/discover"
-	"github.com/webchain-network/webchaind/p2p/nat"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/p2p/discover"
+	"github.com/mkrufky/webchaind/p2p/nat"
 )
 
 // Version is the application revision identifier. It can be set with the linker

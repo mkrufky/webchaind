@@ -22,9 +22,9 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/webchain-network/webchaind/console"
-	"github.com/webchain-network/webchaind/node"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/console"
+	"github.com/mkrufky/webchaind/node"
+	"github.com/mkrufky/webchaind/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 

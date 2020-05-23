@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/eth/filters"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/eth/filters"
+	"github.com/mkrufky/webchaind/rpc"
 )
 
 func TestUnmarshalJSONNewFilterArgs(t *testing.T) {

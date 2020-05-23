@@ -1,7 +1,7 @@
 package downloader
 
 import (
-	"github.com/webchain-network/webchaind/core"
+	"github.com/mkrufky/webchaind/core"
 )
 
 type InsertChainEvent struct {

@@ -25,7 +25,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/webchain-network/webchaind/rlp"
+	"github.com/mkrufky/webchaind/rlp"
 )
 
 // Msg defines the structure of a p2p message.

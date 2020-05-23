@@ -32,8 +32,8 @@ import (
 	"encoding/json"
 	"path/filepath"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
 )
 
 var (

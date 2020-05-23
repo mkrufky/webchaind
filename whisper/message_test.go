@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/crypto/secp256k1"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/crypto/secp256k1"
 )
 
 // Tests whether a message can be wrapped without any identity or encryption.

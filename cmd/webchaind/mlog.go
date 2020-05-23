@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/webchain-network/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger"
 )
 
 var mlogClient = logger.MLogRegisterAvailable("client", mlogLinesClient)

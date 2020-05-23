@@ -54,7 +54,7 @@ func TestBloom(t *testing.T) {
 import (
 	"testing"
 
-	"github.com/webchain-network/webchaind/core/state"
+	"github.com/mkrufky/webchaind/core/state"
 )
 
 func TestBloom9(t *testing.T) {

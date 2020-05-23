@@ -24,7 +24,7 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/webchain-network/webchaind/p2p/discover"
+	"github.com/mkrufky/webchaind/p2p/discover"
 )
 
 func init() {

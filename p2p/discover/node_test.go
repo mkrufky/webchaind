@@ -26,7 +26,7 @@ import (
 	"testing/quick"
 	"time"
 
-	"github.com/webchain-network/webchaind/crypto"
+	"github.com/mkrufky/webchaind/crypto"
 )
 
 func ExampleNewNode() {

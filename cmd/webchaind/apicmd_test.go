@@ -9,7 +9,7 @@ import (
 
 	"gopkg.in/urfave/cli.v1"
 
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/rpc"
 )
 
 const errorMsg = "client returned error"

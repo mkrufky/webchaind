@@ -3,8 +3,8 @@ package main
 import (
 	"time"
 
-	"github.com/webchain-network/webchaind/eth"
-	"github.com/webchain-network/webchaind/eth/downloader"
+	"github.com/mkrufky/webchaind/eth"
+	"github.com/mkrufky/webchaind/eth/downloader"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -19,8 +19,8 @@ package core
 import (
 	"runtime"
 
-	"github.com/webchain-network/webchaind/core/types"
-	"github.com/webchain-network/webchaind/pow"
+	"github.com/mkrufky/webchaind/core/types"
+	"github.com/mkrufky/webchaind/pow"
 )
 
 // nonceCheckResult contains the result of a nonce verification.

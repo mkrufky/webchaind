@@ -1,6 +1,6 @@
 package downloader
 
-import "github.com/webchain-network/webchaind/logger"
+import "github.com/mkrufky/webchaind/logger"
 
 var mlogDownloader = logger.MLogRegisterAvailable("downloader", mLogLines)
 

@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/rlp"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/rlp"
 )
 
 type Log struct {

@@ -5,7 +5,7 @@ Official Go language implementation of the Webchain daemon.
 ## Install Webchaind
 
 ### :gift: Official Releases
-Regular releases will be published on the [release page](https://github.com/webchain-network/webchaind/releases). Binaries will be provided for all releases that are considered fairly stable.
+Regular releases will be published on the [release page](https://github.com/mkrufky/webchaind/releases). Binaries will be provided for all releases that are considered fairly stable.
 
 ### :hammer: Building the source
 If your heart is set on the bleeding edge, install from source. However, please be advised that you may encounter some strange things, and we can't prioritize support beyond the release versions. Recommended for developers only.
@@ -19,7 +19,7 @@ With [Go modules](https://github.com/golang/go/wiki/Modules), dependencies will 
 Clone the repository:
 
 ```
-git clone https://github.com/webchain-network/webchaind.git && cd webchaind
+git clone https://github.com/mkrufky/webchaind.git && cd webchaind
 ```
 
 Build all executables:
@@ -129,7 +129,7 @@ SUBCOMMANDS:
 
 ```
 
-Learn more at the [Accounts Wiki Page](https://github.com/webchain-network/webchaind/wiki/Managing-Accounts). If you're interested in using webchaind to manage a lot (~100,000+) of accounts, please visit the [Indexing Accounts Wiki page](https://github.com/webchain-network/webchaind/wiki/Indexing-Accounts).
+Learn more at the [Accounts Wiki Page](https://github.com/mkrufky/webchaind/wiki/Managing-Accounts). If you're interested in using webchaind to manage a lot (~100,000+) of accounts, please visit the [Indexing Accounts Wiki page](https://github.com/mkrufky/webchaind/wiki/Indexing-Accounts).
 
 
 ### Fast synchronisation
@@ -145,14 +145,14 @@ $ webchaind --fakepow import <path where you downloaded the blockchain>/blockcha
 $ webchaind console
 ```
 
-This command will start up webchaind built-in interactive [JavaScript console](https://github.com/webchain-network/webchaind/wiki/JavaScript-Console), through which you can invoke all official [`web3` methods](https://github.com/ethereumproject/wiki/wiki/JavaScript-API) as well as webchaind own [management APIs](https://github.com/webchain-network/webchaind/wiki/Management-APIs). This too is optional and if you leave it out you can always attach to an already running webchaind instance with `webchaind attach`.
+This command will start up webchaind built-in interactive [JavaScript console](https://github.com/mkrufky/webchaind/wiki/JavaScript-Console), through which you can invoke all official [`web3` methods](https://github.com/ethereumproject/wiki/wiki/JavaScript-API) as well as webchaind own [management APIs](https://github.com/mkrufky/webchaind/wiki/Management-APIs). This too is optional and if you leave it out you can always attach to an already running webchaind instance with `webchaind attach`.
 
-Learn more at the [Javascript Console Wiki page](https://github.com/webchain-network/webchaind/wiki/JavaScript-Console).
+Learn more at the [Javascript Console Wiki page](https://github.com/mkrufky/webchaind/wiki/JavaScript-Console).
 
 
 ### And so much more!
 
-For a comprehensive list of command line options, please consult our [CLI Wiki page](https://github.com/webchain-network/webchaind/wiki/Command-Line-Options).
+For a comprehensive list of command line options, please consult our [CLI Wiki page](https://github.com/mkrufky/webchaind/wiki/Command-Line-Options).
 
 ## :orange_book: Webchaind: developing and advanced useage
 
@@ -280,7 +280,7 @@ The core values of democratic engagement, transparency, and integrity run deep w
 
 If you'd like to contribute to webchaind, please fork, fix, commit and send a pull request for the maintainers to review and merge into the main code base.
 
-Please see the [Wiki](https://github.com/webchain-network/webchaind/wiki) for more details on configuring your environment, managing project dependencies, and testing procedures.
+Please see the [Wiki](https://github.com/mkrufky/webchaind/wiki) for more details on configuring your environment, managing project dependencies, and testing procedures.
 
 ## :love_letter: License
 

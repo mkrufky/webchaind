@@ -5,14 +5,14 @@ package core
 import (
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/state"
-	"github.com/webchain-network/webchaind/core/types"
-	evm "github.com/webchain-network/webchaind/core/vm"
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/sputnikvm-ffi/go/sputnikvm"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/state"
+	"github.com/mkrufky/webchaind/core/types"
+	evm "github.com/mkrufky/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/sputnikvm-ffi/go/sputnikvm"
 )
 
 const SputnikVMExists = true

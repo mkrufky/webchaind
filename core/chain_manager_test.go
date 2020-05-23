@@ -20,10 +20,10 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/webchain-network/webchaind/core/types"
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/ethdb"
-	"github.com/webchain-network/webchaind/event"
+	"github.com/mkrufky/webchaind/core/types"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/ethdb"
+	"github.com/mkrufky/webchaind/event"
 )
 
 func ExampleGenerateChain() {

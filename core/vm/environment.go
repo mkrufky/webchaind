@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 )
 
 // RuleSet is an interface that defines the current rule set during the

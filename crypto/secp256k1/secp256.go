@@ -42,7 +42,7 @@ import (
 	"math/big"
 	"unsafe"
 
-	"github.com/webchain-network/webchaind/crypto/randentropy"
+	"github.com/mkrufky/webchaind/crypto/randentropy"
 )
 
 //#define USE_FIELD_5X64

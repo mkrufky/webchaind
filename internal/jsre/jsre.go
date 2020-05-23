@@ -26,7 +26,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 	"github.com/robertkrimen/otto"
 )
 

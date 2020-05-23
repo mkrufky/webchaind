@@ -20,10 +20,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/webchain-network/webchaind/node"
-	"github.com/webchain-network/webchaind/p2p"
-	"github.com/webchain-network/webchaind/p2p/discover"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/node"
+	"github.com/mkrufky/webchaind/p2p"
+	"github.com/mkrufky/webchaind/p2p/discover"
+	"github.com/mkrufky/webchaind/rpc"
 )
 
 // SampleService is a trivial network service that can be attached to a node for

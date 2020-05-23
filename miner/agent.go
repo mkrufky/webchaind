@@ -22,9 +22,9 @@ import (
 
 	"sync/atomic"
 
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/webchaind/pow"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/pow"
 )
 
 type CpuAgent struct {

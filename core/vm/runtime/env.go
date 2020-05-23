@@ -19,10 +19,10 @@ package runtime
 import (
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core"
-	"github.com/webchain-network/webchaind/core/state"
-	"github.com/webchain-network/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core"
+	"github.com/mkrufky/webchaind/core/state"
+	"github.com/mkrufky/webchaind/core/vm"
 )
 
 // Env is a basic runtime environment required for running the EVM.

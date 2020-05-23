@@ -23,7 +23,7 @@ import (
 	"path"
 	"testing"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 )
 
 const solcVersion = "0.1.1"

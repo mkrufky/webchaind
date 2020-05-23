@@ -20,8 +20,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
 )
 
 var callStipend = big.NewInt(2300) // Free gas given at beginning of call.

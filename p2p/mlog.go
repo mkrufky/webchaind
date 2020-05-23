@@ -1,6 +1,6 @@
 package p2p
 
-import "github.com/webchain-network/webchaind/logger"
+import "github.com/mkrufky/webchaind/logger"
 
 var mlogServer = logger.MLogRegisterAvailable("server", mLogLinesServer)
 

@@ -8,11 +8,11 @@ import (
 
 	"path/filepath"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core"
-	"github.com/webchain-network/webchaind/eth"
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core"
+	"github.com/mkrufky/webchaind/eth"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/rpc"
 	"gopkg.in/urfave/cli.v1"
 )
 

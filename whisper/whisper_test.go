@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/webchain-network/webchaind/p2p"
-	"github.com/webchain-network/webchaind/p2p/discover"
+	"github.com/mkrufky/webchaind/p2p"
+	"github.com/mkrufky/webchaind/p2p/discover"
 )
 
 func startTestCluster(n int) []*Whisper {

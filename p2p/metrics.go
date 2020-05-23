@@ -19,7 +19,7 @@ package p2p
 import (
 	"net"
 
-	"github.com/webchain-network/webchaind/metrics"
+	"github.com/mkrufky/webchaind/metrics"
 )
 
 // meteredConn wraps a network TCP connection for metrics.

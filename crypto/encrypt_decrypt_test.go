@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 )
 
 func TestBox(t *testing.T) {

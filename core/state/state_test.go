@@ -23,9 +23,9 @@ import (
 
 	checker "gopkg.in/check.v1"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/ethdb"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/ethdb"
 )
 
 type StateSuite struct {

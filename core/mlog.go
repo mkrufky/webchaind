@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/webchain-network/webchaind/logger"
+	"github.com/mkrufky/webchaind/logger"
 )
 
 var mlogBlockchain = logger.MLogRegisterAvailable("blockchain", mLogLinesBlockchain)

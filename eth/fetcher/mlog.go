@@ -1,6 +1,6 @@
 package fetcher
 
-import "github.com/webchain-network/webchaind/logger"
+import "github.com/mkrufky/webchaind/logger"
 
 var mlogFetcher = logger.MLogRegisterAvailable("fetcher", mLogLines)
 

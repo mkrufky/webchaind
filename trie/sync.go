@@ -20,8 +20,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/ethdb"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/ethdb"
 	"gopkg.in/karalabe/cookiejar.v2/collections/prque"
 )
 

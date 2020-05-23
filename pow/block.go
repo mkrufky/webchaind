@@ -20,8 +20,8 @@ package pow
 import (
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/types"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/types"
 )
 
 type Block interface {

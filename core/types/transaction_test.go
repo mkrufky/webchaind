@@ -22,9 +22,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/rlp"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/rlp"
 )
 
 // The values in those tests are from the Transaction Tests

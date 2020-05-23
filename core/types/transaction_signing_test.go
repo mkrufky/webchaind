@@ -6,8 +6,8 @@ import (
 
 	"bytes"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
 )
 
 func TestChainId(t *testing.T) {

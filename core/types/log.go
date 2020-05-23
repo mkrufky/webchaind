@@ -19,9 +19,9 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/common/hexutil"
-	"github.com/webchain-network/webchaind/rlp"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/common/hexutil"
+	"github.com/mkrufky/webchaind/rlp"
 )
 
 //go:generate gencodec -type Log -field-override logMarshaling -out gen_log_json.go

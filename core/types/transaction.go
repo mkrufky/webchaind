@@ -26,8 +26,8 @@ import (
 	"sort"
 	"sync/atomic"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/rlp"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/rlp"
 )
 
 var ErrInvalidSig = errors.New("invalid v, r, s values")

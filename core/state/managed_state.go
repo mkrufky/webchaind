@@ -19,7 +19,7 @@ package state
 import (
 	"sync"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 )
 
 type account struct {

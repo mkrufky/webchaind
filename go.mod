@@ -1,4 +1,4 @@
-module github.com/webchain-network/webchaind
+module github.com/mkrufky/webchaind
 
 go 1.14
 
@@ -28,9 +28,9 @@ require (
 	github.com/spf13/afero v1.2.2
 	github.com/stretchr/testify v1.3.0
 	github.com/syndtr/goleveldb v0.0.0-20171214120811-34011bf325bc
-	github.com/webchain-network/cryptonight v0.0.0-20190710091206-c830472bb2a3
-	github.com/webchain-network/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4
-	github.com/webchain-network/webchaind/accounts/abi/bind v0.0.0-20190521151733-fe17e9e1e2ce
+	github.com/mkrufky/cryptonight v0.0.0-20190710091206-c830472bb2a3
+	github.com/mkrufky/sputnikvm-ffi v0.0.0-20180625070200-47e0403cc9b4
+	github.com/mkrufky/webchaind/accounts/abi/bind v0.0.0-20190521151733-fe17e9e1e2ce
 	golang.org/x/crypto v0.0.0-20190418165655-df01cb2cc480
 	golang.org/x/net v0.0.0-20200520004742-59133d7f0dd7
 	golang.org/x/sys v0.0.0-20200519105757-fe76b779f299
@@ -40,4 +40,4 @@ require (
 	gopkg.in/urfave/cli.v1 v1.17.0
 )
 
-replace github.com/webchain-network/webchaind/accounts/abi/bind v0.0.0-20190521151733-fe17e9e1e2ce => ./accounts/abi/bind
+replace github.com/mkrufky/webchaind/accounts/abi/bind d4c422a39299671251218cd31baed99d892b37d0 => ./accounts/abi/bind

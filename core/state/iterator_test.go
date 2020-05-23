@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/webchain-network/webchaind/common"
+	"github.com/mkrufky/webchaind/common"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

@@ -24,8 +24,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/webchain-network/webchaind/accounts/abi/bind"
-	"github.com/webchain-network/webchaind/common/compiler"
+	"github.com/mkrufky/webchaind/accounts/abi/bind"
+	"github.com/mkrufky/webchaind/common/compiler"
 )
 
 // Version is the application revision identifier. It can be set with the linker

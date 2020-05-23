@@ -22,10 +22,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/webchain-network/webchaind/crypto"
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/webchaind/p2p"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/crypto"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/p2p"
+	"github.com/mkrufky/webchaind/rpc"
 	"github.com/spf13/afero"
 )
 

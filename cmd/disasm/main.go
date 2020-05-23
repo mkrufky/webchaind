@@ -23,8 +23,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/vm"
 )
 
 // Version is the application revision identifier. It can be set with the linker

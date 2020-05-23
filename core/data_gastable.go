@@ -22,7 +22,7 @@ package core
 import (
 	"math/big"
 
-	"github.com/webchain-network/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/core/vm"
 )
 
 var DefaultDiehardGasTable = &vm.GasTable{

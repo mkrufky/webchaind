@@ -21,10 +21,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/webchain-network/webchaind/eth/downloader"
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/webchaind/p2p"
-	"github.com/webchain-network/webchaind/p2p/discover"
+	"github.com/mkrufky/webchaind/eth/downloader"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/p2p"
+	"github.com/mkrufky/webchaind/p2p/discover"
 )
 
 func init() {

@@ -26,7 +26,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/webchain-network/webchaind/rlp"
+	"github.com/mkrufky/webchaind/rlp"
 )
 
 // Version is the application revision identifier. It can be set with the linker

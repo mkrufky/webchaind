@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/crypto"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/crypto"
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

@@ -21,7 +21,7 @@ package whisper
 import (
 	"crypto/ecdsa"
 
-	"github.com/webchain-network/webchaind/event/filter"
+	"github.com/mkrufky/webchaind/event/filter"
 )
 
 // Filter is used to subscribe to specific types of whisper messages.

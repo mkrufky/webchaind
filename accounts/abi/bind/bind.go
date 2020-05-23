@@ -28,7 +28,7 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/webchain-network/webchaind/accounts/abi"
+	"github.com/mkrufky/webchaind/accounts/abi"
 	"golang.org/x/tools/imports"
 )
 

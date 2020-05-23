@@ -21,14 +21,14 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/webchain-network/cryptonight"
+	"github.com/mkrufky/cryptonight"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/core/state"
-	"github.com/webchain-network/webchaind/core/types"
-	"github.com/webchain-network/webchaind/core/vm"
-	"github.com/webchain-network/webchaind/ethdb"
-	"github.com/webchain-network/webchaind/event"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/core/state"
+	"github.com/mkrufky/webchaind/core/types"
+	"github.com/mkrufky/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/ethdb"
+	"github.com/mkrufky/webchaind/event"
 )
 
 func testChainConfig() *ChainConfig {

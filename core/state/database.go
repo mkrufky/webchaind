@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/ethdb"
-	"github.com/webchain-network/webchaind/trie"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/ethdb"
+	"github.com/mkrufky/webchaind/trie"
 	lru "github.com/hashicorp/golang-lru"
 )
 

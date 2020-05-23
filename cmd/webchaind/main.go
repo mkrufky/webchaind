@@ -29,11 +29,11 @@ import (
 	"gopkg.in/urfave/cli.v1"
 
 	"github.com/ethereumproject/benchmark/rtprof"
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/console"
-	"github.com/webchain-network/webchaind/core"
-	"github.com/webchain-network/webchaind/logger"
-	"github.com/webchain-network/webchaind/metrics"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/console"
+	"github.com/mkrufky/webchaind/core"
+	"github.com/mkrufky/webchaind/logger"
+	"github.com/mkrufky/webchaind/metrics"
 )
 
 // Version is the application revision identifier. It can be set with the linker

@@ -22,9 +22,9 @@ import (
 
 	"math/big"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/event"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/event"
+	"github.com/mkrufky/webchaind/rpc"
 )
 
 type DoneEvent struct {

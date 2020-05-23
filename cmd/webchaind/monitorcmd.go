@@ -30,10 +30,10 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"github.com/webchain-network/webchaind/common"
-	"github.com/webchain-network/webchaind/logger/glog"
-	"github.com/webchain-network/webchaind/node"
-	"github.com/webchain-network/webchaind/rpc"
+	"github.com/mkrufky/webchaind/common"
+	"github.com/mkrufky/webchaind/logger/glog"
+	"github.com/mkrufky/webchaind/node"
+	"github.com/mkrufky/webchaind/rpc"
 	"github.com/gizak/termui"
 	"gopkg.in/urfave/cli.v1"
 )

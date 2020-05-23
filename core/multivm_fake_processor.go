@@ -5,9 +5,9 @@ package core
 import (
 	"math/big"
 
-	"github.com/webchain-network/webchaind/core/state"
-	"github.com/webchain-network/webchaind/core/types"
-	evm "github.com/webchain-network/webchaind/core/vm"
+	"github.com/mkrufky/webchaind/core/state"
+	"github.com/mkrufky/webchaind/core/types"
+	evm "github.com/mkrufky/webchaind/core/vm"
 )
 
 const SputnikVMExists = false
