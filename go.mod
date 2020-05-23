@@ -39,4 +39,4 @@ require (
 	gopkg.in/urfave/cli.v1 v1.17.0
 )
 
-replace github.com/mkrufky/webchaind/accounts/abi/bind v0.3.1-0.20200523200816-82ad8c02d13e => ./accounts/abi/bind
+replace github.com/mkrufky/webchaind/accounts/abi/bind v0.3.1-0.20200523222546-1f2dc81edd9c => ./accounts/abi/bind
