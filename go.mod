@@ -19,7 +19,7 @@ require (
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
 	github.com/mkrufky/cryptonight v0.0.0-20200523235742-5a895e3780cf
 	github.com/mkrufky/sputnikvm-ffi v0.0.0-20200524000605-0b07ad5840e1
-	github.com/mkrufky/webchaind/accounts/abi/bind v0.3.1-0.20200523222546-4409f898399d
+	github.com/mkrufky/webchaind/accounts/abi/bind v0.0.0-20200524004653-dc04f3fae62a
 	github.com/omeid/go-resources v0.0.0-20200113210624-eb442c910d63
 	github.com/peterh/liner v1.1.0
 	github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a
@@ -39,4 +39,4 @@ require (
 	gopkg.in/urfave/cli.v1 v1.17.0
 )
 
-replace github.com/mkrufky/webchaind/accounts/abi/bind v0.3.1-0.20200523222546-4409f898399d => ./accounts/abi/bind
+replace github.com/mkrufky/webchaind/accounts/abi/bind v0.0.0-20200524004653-dc04f3fae62a => ./accounts/abi/bind
