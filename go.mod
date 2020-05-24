@@ -15,12 +15,16 @@ require (
 	github.com/huin/goupnp v1.0.0
 	github.com/ianlancetaylor/demangle v0.0.0-20200523230325-2e7988d3ae45 // indirect
 	github.com/jackpal/go-nat-pmp v1.0.1
+	github.com/klauspost/cpuid v1.2.4 // indirect
 	github.com/mailru/easyjson v0.0.0-20190403194419-1ea4449da983
+	github.com/maruel/panicparse v1.4.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
 	github.com/mkrufky/cryptonight v0.0.0-20200523235742-5a895e3780cf
 	github.com/mkrufky/sputnikvm-ffi v0.0.0-20200524000605-0b07ad5840e1
 	github.com/mkrufky/webchaind/accounts/abi/bind v0.0.0-20200524004653-dc04f3fae62a
+	github.com/nsf/termbox-go v0.0.0-20200418040025-38ba6e5628f1 // indirect
 	github.com/omeid/go-resources v0.0.0-20200113210624-eb442c910d63
+	github.com/onsi/ginkgo v1.12.2 // indirect
 	github.com/peterh/liner v1.1.0
 	github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a
 	github.com/rjeczalik/notify v0.9.1
