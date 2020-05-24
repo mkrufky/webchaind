@@ -13,16 +13,14 @@ require (
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/hashicorp/golang-lru v0.5.1
 	github.com/huin/goupnp v1.0.0
+	github.com/ianlancetaylor/demangle v0.0.0-20200523230325-2e7988d3ae45 // indirect
 	github.com/jackpal/go-nat-pmp v1.0.1
-	github.com/klauspost/cpuid v1.2.1 // indirect
 	github.com/mailru/easyjson v0.0.0-20190403194419-1ea4449da983
-	github.com/maruel/panicparse v1.2.0 // indirect
-	github.com/mattn/go-colorable v0.1.2 // indirect
+	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
 	github.com/mkrufky/cryptonight v0.0.0-20200523235742-5a895e3780cf
-	github.com/mkrufky/sputnikvm-ffi v0.0.0-20200523235116-98d5f2896018
-	github.com/nsf/termbox-go v0.0.0-20190624072549-eeb6cd0a1762 // indirect
+	github.com/mkrufky/sputnikvm-ffi v0.0.0-20200524000605-0b07ad5840e1
+	github.com/mkrufky/webchaind/accounts/abi/bind v0.3.1-0.20200523222546-1f2dc81edd9c
 	github.com/omeid/go-resources v0.0.0-20200113210624-eb442c910d63
-	github.com/onsi/ginkgo v1.12.2 // indirect
 	github.com/peterh/liner v1.1.0
 	github.com/rcrowley/go-metrics v0.0.0-20181016184325-3113b8401b8a
 	github.com/rjeczalik/notify v0.9.1
@@ -37,6 +35,7 @@ require (
 	gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405
 	gopkg.in/fatih/set.v0 v0.1.0
 	gopkg.in/karalabe/cookiejar.v2 v2.0.0-20150724131613-8dcd6a7f4951
+	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	gopkg.in/urfave/cli.v1 v1.17.0
 )
 
