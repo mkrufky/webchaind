@@ -139,6 +139,10 @@ type keyStore struct {
 	scryptP int
 }
 
+func NewKeyStore(dir string, scryptN, scryptP int) (*keyStore, error) {
+	return newKeyStore(dir, scryptN, scryptP)
+}
+
 func newKeyStore(dir string, scryptN, scryptP int) (*keyStore, error) {
 	if !filepath.IsAbs(dir) {
 		var err error
